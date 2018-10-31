@@ -13,8 +13,8 @@
 #include <ArduinoJson.h>
 #include <ESP8266HTTPClient.h>
 //---------------修改此处""内的信息--------------------
-const char* ssid     = "WAVLINK_8D35";   //WiFi名
-const char* password = "845720701dlf";   //WiFi密码
+const char* ssid     = "密码是没有密码";   //WiFi名
+const char* password = "meiyoumima";   //WiFi密码
 String biliuid       = "95105053";       //bilibili UID
 //----------------------------------------------------
 DynamicJsonDocument jsonBuffer(200);//动态数据
